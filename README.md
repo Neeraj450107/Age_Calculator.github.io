@@ -21,7 +21,8 @@ https://neeraj450107.github.io/Age_Calculator.github.io/
 
 ## Demo
 
-![Image](https://github.com/user-attachments/assets/5245aa32-d2b6-4bed-a42f-99929c86c2f8)
+
+https://github.com/user-attachments/assets/17d02efe-6204-48b6-8ed8-825c1e1be714
 
 
 ## 🖥️ Tech Stack
