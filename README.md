@@ -21,7 +21,7 @@ https://neeraj450107.github.io/Age_Calculator.github.io/
 
 ## Demo
 
-
+![Image](https://github.com/user-attachments/assets/5245aa32-d2b6-4bed-a42f-99929c86c2f8)
 
 
 ## 🖥️ Tech Stack
@@ -31,7 +31,9 @@ https://neeraj450107.github.io/Age_Calculator.github.io/
  - **JavaScript** – For logic and calculations
 ## Screenshots
 
-
+![Image](https://github.com/user-attachments/assets/5db365d5-b64b-4cca-876f-4843ba10a17b)
+![Image](https://github.com/user-attachments/assets/4031134e-92dd-4def-840f-6edc4d71969f)
+![Image](https://github.com/user-attachments/assets/3f40a3af-0e8c-43d0-b49e-dc0213c08862)
 
 
 ## Getting Started
